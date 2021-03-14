@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="_8942">⋮</string>
+    <string name="delete_option">Delete</string>
+    <string name="expense_name">Expense Name</string>
+    <string name="expense_amount">Amount</string>
+    <string name="category_heading">Category</string>
+    <string name="save_button_text">save</string>
+    <string name="delete_expense_description">Delete Expense</string>
+    <string name="fab_content_description">Add Expense</string>
+    <string name="add_budget_button_text">Add New</string>
+    <string name="delete_budget_button_text">Delete</string>
+    <string name="budget_text">Budget. %1$d Rs.</string>
+    <string name="total_expenses_text">Total Expenses. %1$d Rs.</string>
+    <string name="all_expenses_heading">All Expenses</string>
+    <string name="budget_amount_hint">Budget Amount</string>
+    <string name="save_budget_button_text">Save</string>
+    <string name="bottom_sheet_heading">Add Budget in (Rs.)</string>
+    <string-array name="categories">
+        <item>Must have</item>
+        <item>Nice to have</item>
+        <item>Not important</item>
+    </string-array>
+</resources>
