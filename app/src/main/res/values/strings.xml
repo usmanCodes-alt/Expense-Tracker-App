@@ -16,6 +16,7 @@
     <string name="budget_amount_hint">Budget Amount</string>
     <string name="save_budget_button_text">Save</string>
     <string name="bottom_sheet_heading">Add Budget in (Rs.)</string>
+    <string name="menu_delete_all_expenses">Delete all Expenses</string>
     <string-array name="categories">
         <item>Must have</item>
         <item>Nice to have</item>
